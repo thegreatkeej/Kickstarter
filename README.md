@@ -3,7 +3,7 @@
 ## Overview of Project
 
 ### Purpose
-Performing analysis on Kickstarter data to uncover trends An Analysis of Kickstarter Campaigns
+Performing analysis on Kickstarter data to uncover Campaign trends 
 
 ## Analysis and Challenges
 This data set does not provide the cost of launching a campaign. If campaigns have no cost, every campaign should have a goal 
