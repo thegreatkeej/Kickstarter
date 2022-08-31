@@ -1,4 +1,4 @@
-# kickstarter_Challenge.xlsx
+# kickstarter
 
 ## Overview of Project
 
